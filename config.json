@@ -1,6 +1,6 @@
 {
-  "SERVER_URL": "https://api.aws-stg.dor-e.com",
+  "SERVER_URL": "https://api.aws-stg.dor-e.com/parse",
   "APPLICATION_ID": "070T160i9m9z2uH06eDFx3VXK313W5m4026rJUyt",
-  "LIVE_SERVER_URL": "wss://lqs.aws-stg.dor-e.com",
+  "LIVE_SERVER_URL": "wss://api.aws-stg.dor-e.com/parselive",
   "TRACK_URL_PREFIX": "https://dor-e-website-stg.vercel.app/t"
 }
